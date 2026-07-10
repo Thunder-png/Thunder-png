@@ -6,7 +6,7 @@
 - 💬 Ask me about **react, python, js,**
 
 - 📫 How to reach me **arfyldrm0606@gmail.com**
-- 🌐 My Website **https://arifyildirim.netlify.app**
+- 🌐 My Website **https://arifyildirim.arfyldrm0606.workers.dev/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
